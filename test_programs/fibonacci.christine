@@ -1,0 +1,31 @@
+christine is breaking a program named fibonacci;
+christine is creating a method that returns integer called getFib (christine eats n as integer) {
+    christine eats i as integer;
+    christine eats j as integer;
+    christine eats k as integer;
+    christine eats t as integer;
+    christine sticks 0 into i;
+    christine sticks 1 into j;
+    christine sticks 1 into k;
+    christine repeats herself until (k equal to n)
+    {
+        christine sticks (christine puts i and j together) into t;
+        christine says {j, " "};
+        christine sticks j into i;
+        christine sticks t into j;
+        christine sticks (christine puts 1 and k together) into k;
+    }
+    christine says { j, "\n"};
+    christine is returning j;
+}
+christine is doing her main thing {
+    christine eats fib as integer;
+    # Get a sequence of 5 numbers
+    christine says {"christine is calling getFib with a value of 5\n"}
+    christine sticks (christine casually strolls to getFib with 5;) into fib;
+    christine says {"result of getFib for 5 is ", fib, "\n"};
+    # Get a sequence of 15 numbers
+    christine says {"christine is calling getFib with a value of 15\n"}
+    christine sticks (christine casually strolls to getFib with 15;) into fib;
+    christine says {"result of getFib for 15 is ", fib, "\n"};
+}

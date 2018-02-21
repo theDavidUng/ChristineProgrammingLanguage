@@ -1,0 +1,51 @@
+christine is breaking a program named test4;
+christine is creating a method that returns nothing called DavidVoidFunction1() {
+    christine eats k as integer;
+    christine sticks 1 into k;
+    christine repeats herself until (k greater than or equal to 5)
+    {
+        christine sticks (christine puts k and 1 together) into k;
+    }
+    christine says {"printing DavidVoidFunction1\n"};
+}
+christine is doing her main thing {
+	christine says {"funky town 3\n"};
+	christine eats i as integer;
+	christine eats j as real;
+	christine sticks 1 into i;
+	christine sticks 1.99 into j;
+	christine says {"j is equal to ", j};
+	christine says {"I'm a funky language!\n"};
+	christine repeats herself until (i greater than or equal to 55)
+	{
+	    christine sticks (christine puts i and 1 together) into i;
+	    christine says {"i is now equal to ", i, "\n"};
+	}
+	christine needs a moment to decide if (i greater than 60)
+	{
+		christine says {"I'm a horrible language!\n"};
+	} 
+	else if (i greater than 50)
+	{
+		christine says {"I am very confused!\n"};
+	}
+	else
+	{
+		christine says {"I'm a great language!\n"};
+	}
+	christine needs a moment to decide if ((i greater than 60) logical or (i less than 2)) 
+	{
+		christine says {"funky town 1\n"};
+	} 
+	else if (i greater than 50)
+	{
+		christine says {"funky town 2\n"};
+	}
+	
+	christine needs a moment to decide if (i greater than 50)
+	{
+		christine says {"funky town 3\n"};
+	}
+	christine casually strolls to DavidVoidFunction1;
+	christine needs 3 coffee for integer array coffeearray;
+}

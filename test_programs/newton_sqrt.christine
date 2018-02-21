@@ -1,0 +1,23 @@
+christine is breaking a program named newtonsqrt;
+# This will work once we add real as a return type for functions
+christine is creating a method that returns real called newtonRoot (christine eats num as real, christine eats n as integer) {
+    # run n iterations of newton's method to approximate a square root
+    christine eats i as integer;
+    christine eats aprox as real;
+    christine sticks 0 into i;
+    christine sticks 1.0 into aprox;
+    christine repeats herself until (i equal to n)
+    {
+        christine sticks (christine flushes (christine puts (christine flushes num and aprox down the toilet) and aprox together) and 2 down the toilet) into aprox;
+        # increment i
+        christine sticks (christine puts 1 and i together) into i;
+    }
+    christine is returning aprox;
+}
+christine is doing her main thing {
+    christine eats root as real;
+    # Aproximate sqrt of 4
+    christine says {"christine is calling newtonRoot with a value of 4, 2\n"}
+    christine sticks (christine casually strolls to newtonRoot with 4 2;) into root;
+    christine says {"result of newtonRoot for 4, 2 is ", root, "\n"};
+}

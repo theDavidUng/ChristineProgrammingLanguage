@@ -1,0 +1,10 @@
+christine is breaking a program named test1;
+christine is doing her main thing {
+    christine eats i as integer;
+    christine eats j as real;
+    christine sticks 1 into i;
+    christine sticks 1.99 into j;
+    christine says {"i is equal to ", i};
+    christine says {"j is equal to ", j};
+    christine says {"I'm a funky language!\n"};
+}

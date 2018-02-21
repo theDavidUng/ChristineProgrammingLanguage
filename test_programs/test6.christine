@@ -1,0 +1,19 @@
+christine is breaking a program named test6;
+christine is doing her main thing {
+	christine eats j as real;
+	christine sticks 1.99 into j;
+	christine eats i as integer;
+	christine says {"j is equal to ", j};
+	christine says {"I'm a funky language!\n"};
+	christine needs 3 coffee for integer array coffeearray;
+	christine needs 10 coffee for real array cafe;
+	# Integer array test
+	christine is putting a coffee bean 5 into spot 1 of the coffee array coffeearray;
+	christine is retrieving the coffee bean at 1 from the coffee array coffeearray and placing the value into i;
+	christine says {"i is equal to ", i};
+	# Real array test
+	christine is putting a coffee bean 5.3 into spot 2 of the coffee array cafe;
+	christine is retrieving the coffee bean at 2 from the coffee array cafe and placing the value into j;
+	christine says {"j is equal to ", j};
+}
+

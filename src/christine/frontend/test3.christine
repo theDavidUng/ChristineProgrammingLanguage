@@ -1,0 +1,33 @@
+christine is breaking a program named test;
+christine eats i as integer;
+christine sticks 1 into i;
+
+christine repeats herself until (i greater than or equal to 5) {
+    christine sticks (christine puts i and 1 together) into i;
+}
+
+christine is creating a method that returns nothing DavidVoidFunction1(x, y, z) {
+
+    christine is breaking a program named test;
+    christine eats i as integer;
+    christine sticks 1 into i;
+
+    christine repeats herself until (i greater than or equal to 5) {
+        christine sticks (christine puts i and 1 together) into i;
+    }
+
+}
+
+christine is creating a method that returns integer' DavidIntFunction1(one, two, three) {
+
+    christine is breaking a program named test;
+    christine eats i as integer;
+    christine sticks 1 into i;
+
+    christine repeats herself until (i greater than or equal to 5) {
+        christine sticks (christine puts i and 1 together) into i;
+    }
+
+    return i;
+}
+
