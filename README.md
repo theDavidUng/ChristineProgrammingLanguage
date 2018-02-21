@@ -11,14 +11,15 @@ We have to major two major java files that generate the Jasmin assembly code for
 
 # How to Run
 
->1. Run the main from Christine.java (src/christine/frontend/Christine/Christine.java) with the program args. being the program file written in the Christine language. ("test6.christine" from test_programs/test6.christine). After running Christine you will be see a newly created jasmin assembly file called file_name.j in your root directory.
+1. Run the main from Christine.java (src/christine/frontend/Christine/Christine.java) with the program args. being the program file written in the Christine language. ("test6.christine" from test_programs/test6.christine). After running Christine you will be see a newly created jasmin assembly file called file_name.j in your root directory.
 
->2. Take the created jarmin file and run the file with the jasmin jar from the folder "jasmin-2.4". After running the command it will create a .class file for you to run with the packaged ChristineTool.jar
->>Assuming your the .j file is "test.j", the following terminal command will be:
->>java -jar ./jasmin.jar test.j
+2. Take the created jarmin file and run the file with the jasmin jar from the folder "jasmin-2.4". After running the command it will create a .class file for you to run with the packaged ChristineTool.jar
 
->3. Run the generated class file with ChristineTool.jar
->>Exmaple
->>java -cp ./ChristineTool.jar:. test
+Assuming your the .j file is "test.j", the following terminal command will be:
+java -jar ./jasmin.jar test.j
+
+3. Run the generated class file with ChristineTool.jar
+Exmaple:
+java -cp ./ChristineTool.jar:. test
 
 
