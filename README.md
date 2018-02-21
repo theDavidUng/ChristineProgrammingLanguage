@@ -1,5 +1,5 @@
-# ChristineProgrammingLanguage
-Fully Function Programming Language
+# Christine Programming Language
+Fully Functioning Programming Language
 
 Authors: Ronald Mak, David Ung, Christine Le, John Humlick, Alex Hsiao
 
