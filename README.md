@@ -19,6 +19,7 @@ Assuming your the .j file is "test.j", the following terminal command will be:
 java -jar ./jasmin.jar test.j
 
 3. Run the generated class file with ChristineTool.jar
+
 Exmaple:
 java -cp ./ChristineTool.jar:. test
 
