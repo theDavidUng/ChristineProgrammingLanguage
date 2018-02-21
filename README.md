@@ -21,4 +21,39 @@ We have to major two major java files that generate the Jasmin assembly code for
 
     a. Exmaple: java -cp ./ChristineTool.jar:. test
 
+# Example:
+
+If we were run "test6.christine":
+
+    christine is breaking a program named test6;
+    christine is doing her main thing {
+        christine eats j as real;
+        christine sticks 1.99 into j;
+        christine eats i as integer;
+        christine says {"j is equal to ", j};
+        christine says {"I'm a funky language!\n"};
+        christine needs 3 coffee for integer array coffeearray;
+        christine needs 10 coffee for real array cafe;
+        # Integer array test
+        christine is putting a coffee bean 5 into spot 1 of the coffee array coffeearray;
+        christine is retrieving the coffee bean at 1 from the coffee array coffeearray and placing the value into i;
+        christine says {"i is equal to ", i};
+        # Real array test
+        christine is putting a coffee bean 5.3 into spot 2 of the coffee array cafe;
+        christine is retrieving the coffee bean at 2 from the coffee array cafe and placing the value into j;
+        christine says {"j is equal to ", j};
+    }
+
+Terminal Output would be:
+
+    Davids-MacBook-Pro:jasmin-2.4 davidung$ java -jar ./jasmin.jar test6.j
+    Generated: test6.class
+    Davids-MacBook-Pro:jasmin-2.4 davidung$ java -cp ./ChristineTool.jar:. test6
+    j is equal to 1.99 
+    I'm a funky language!
+    i is equal to 5
+    j is equal to 5.3
+                    0.01 seconds total execution time.
+    Davids-MacBook-Pro:jasmin-2.4 davidung$ 
+
 
